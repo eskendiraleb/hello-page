@@ -1,4 +1,4 @@
-package event.launchcode.hellopage.model;
+package event.launchcode.hellopage;
 
 
 import event.launchcode.hellopage.controller.AuthenticationController;

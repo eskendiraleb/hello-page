@@ -1,6 +1,6 @@
 package event.launchcode.hellopage;
 
-import event.launchcode.hellopage.controller.HomeController;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
