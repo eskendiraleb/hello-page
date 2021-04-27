@@ -9,7 +9,6 @@ public class HelloPageApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloPageApplication.class, args);
-//		System.out.println(HomeController.hello());
 	}
 
 }
